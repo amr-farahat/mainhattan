@@ -1,0 +1,1 @@
+### A webpage for the Mainhattan lecture series organized by [Vinck Lab](https://www.martinvinck.com/) and friends at Ernst Strüngmann Institute for Neuroscience in Cooperation with Max Planck Society.
